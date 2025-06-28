@@ -1,0 +1,6 @@
+body { font-family: Arial; margin: 0; padding: 0; }
+header { background: green; color: white; padding: 10px; display: flex; justify-content: space-between; align-items: center; }
+nav a { color: white; margin: 0 10px; text-decoration: none; }
+.cart-icon { font-size: 18px; }
+.category { padding: 20px; }
+.product { background: #f0f0f0; margin: 10px 0; padding: 10px; }
